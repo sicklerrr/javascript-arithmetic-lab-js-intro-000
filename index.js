@@ -1,4 +1,6 @@
-add(a + b)
+add(a, b){
+  `${a} + ${b}`
+}
 
 subtract(a - b)
 
