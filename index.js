@@ -1,4 +1,4 @@
-add(a, b){
+funtion add(a, b) {
   return a + b
 }
 
